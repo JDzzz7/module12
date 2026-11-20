@@ -60,7 +60,7 @@ jobs:
           pytest --run-slow tests/integration/
           
           # 3) E2E or other tests
-          pytest --run-slowtests/e2e/
+          pytest --run-slow tests/e2e/
 
   security:
     needs: test
