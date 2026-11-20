@@ -14,8 +14,6 @@ Install the project dependencies:
 pip install -r requirements.txt
 ```
 
-Make sure PostgreSQL is running and the database configuration is set up correctly.
-
 Run all integration tests:
 
 ```bash
